@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(236, 155, 34);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: aquamarine;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.parrafo3{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
